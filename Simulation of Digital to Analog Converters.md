@@ -9,14 +9,14 @@ LT-Spice
 
 ## PROCEDURE:
 1. Double click on LT Spice icon.
+2. 
+3. New schematic window open.
 
-2. New schematic window open.
+4. Pick and paste the required component from the library and draw the circuit diagram .
 
-3. Pick and paste the required component from the library and draw the circuit diagram .
+5. Complete the connection.
 
-4. Complete the connection.
-
-5. Select 1 voltage and select pulse width as 
+6. Select 1 voltage and select pulse width as 
 Vinitial [V]: 5
        Von [V]: 0
        Tdelay [s]: 0
@@ -27,11 +27,11 @@ Vinitial [V]: 5
         Ncycles: 100
 Change the values of Ton = 20m , 40m, Tperiod  = 40m , 80m
 For v2 and v3  keeping the other values constant.
-6. Save the file by giving file name.
+7. Save the file by giving file name.
 
-7. Click on the run option -->click advanced open -->select select transient analysis -->enter the amplitude time delay stop time value as (.tran 0 200 0 0.01).
+8. Click on the run option -->click advanced open -->select select transient analysis -->enter the amplitude time delay stop time value as (.tran 0 200 0 0.01).
 
-8. Click on the run option -->simulation window opens-->place the probe -->output graph is obtained.
+9. Click on the run option -->simulation window opens-->place the probe -->output graph is obtained.
 
 ## CIRCUIT DIAGRAM:
 ### DAC:
