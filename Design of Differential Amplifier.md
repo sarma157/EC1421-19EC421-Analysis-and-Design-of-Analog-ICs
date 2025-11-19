@@ -4,7 +4,7 @@
 ## AIM: 
 
  To design and construct a  differential amplifier. 
-
+ 
  
 ## APPARATUS REQUIRED
 
