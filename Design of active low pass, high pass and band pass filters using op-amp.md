@@ -36,11 +36,17 @@ band pass filter depends on the order of high pass and low pass sections.
 
 ## CIRCUIT DIAGRAM: 
 ## LOW_PASS
+
+![WhatsApp Image 2025-11-27 at 14 14 49_d89e95bc](https://github.com/user-attachments/assets/4bd90e9f-00c6-4265-a52a-ae3366dde058)
+
 ## HIGH-PASS
 ## BAND-PASS
 
 ## MODEL GRAPH:
 ## LOW_PASS
+
+![WhatsApp Image 2025-11-27 at 14 14 55_7c8084dc](https://github.com/user-attachments/assets/c846028d-b59f-4c53-b1b2-9231924c83e3)
+
 ## HIGH-PASS
 ## BAND-PASS
 
@@ -85,15 +91,12 @@ Given: fL = 400Hz  = 1/ (2πR2C2)
                  Let  Ri = Rf = 10 KΩ
 ## TABULATION:
 ## LOW_PASS
+
+![WhatsApp Image 2025-11-27 at 14 15 17_d6b9e99e](https://github.com/user-attachments/assets/4cb74ec6-7822-4ce0-b6e6-8e388d466ca9)
+
 ## HIGH-PASS
 ## BAND-PASS
-## CALCULATIONS:
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
-## LOW_PASS
-## HIGH-PASS
-## BAND-PASS
+
 ## GRAPH:
 ## LOW_PASS
 ## HIGH-PASS
