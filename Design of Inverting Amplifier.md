@@ -48,15 +48,16 @@ Choose  R1 = 1kΩ, Rf=10kΩ
 
    
 ## TABULATION:
+![WhatsApp Image 2025-11-27 at 13 53 33_e7eb0f0c](https://github.com/user-attachments/assets/bf7c9dfa-96c4-4a61-b9fc-538a3677bc89)
 
- paste your tabulation 
 
 ## CALCULATIONS:
 
- 
+ ![WhatsApp Image 2025-11-27 at 13 54 06_72a33b72](https://github.com/user-attachments/assets/b4f2c0a5-fd51-45f6-ae5b-d544bce22df3)
+
 
 ## GRAPH:
-
+![WhatsApp Image 2025-11-27 at 13 53 55_522d8765](https://github.com/user-attachments/assets/3df49db7-a500-4ce5-8362-c0d9ee912129)
 
 
 ## RESULT:
