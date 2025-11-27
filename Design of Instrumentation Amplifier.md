@@ -30,7 +30,11 @@ performance.
 Vo = RF/R1[1+ 2R’/R][V2-V1] 
 ## CIRCUIT DIAGRAM: 
 
+![WhatsApp Image 2025-11-27 at 14 12 08_e4f7ca4d](https://github.com/user-attachments/assets/84b7b08c-5437-4f1a-ae0e-5ee109903215)
+
 ## MODEL GRAPH:
+
+![WhatsApp Image 2025-11-27 at 14 11 59_c58a7c17](https://github.com/user-attachments/assets/49d569a3-7a92-4ba2-b174-37b8c136313a)
 
 ## PROCEDURE:  
 1. Select the entire resistor with the same value. Let R be the gain varying resistor with 
@@ -48,7 +52,15 @@ waveforms are plotted in a graph sheet.
 
 ## TABULATION:
 
+![WhatsApp Image 2025-11-27 at 14 11 04_9f46dd26](https://github.com/user-attachments/assets/3bf84db6-689b-4010-8574-933dacb3ab99)
+
 ## CALCULATIONS:
+
+![WhatsApp Image 2025-11-27 at 14 11 31_4ad76715](https://github.com/user-attachments/assets/4f5a4881-62f5-49f4-b3a3-b44a68d08766)
+
+![WhatsApp Image 2025-11-27 at 14 11 42_d9127cf8](https://github.com/user-attachments/assets/7f16d6b1-8c32-4c7d-9a8d-acb976529928)
+
+
 
 ## GRAPH:
 
